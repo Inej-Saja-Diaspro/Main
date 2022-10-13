@@ -20,6 +20,8 @@ def check(a):
     else:
         print("well done, you have completed the quiz!")
 
+print(check(a = responses))
+
 responses = ["C", "B", "C"]
 
 print(check(a = responses))
