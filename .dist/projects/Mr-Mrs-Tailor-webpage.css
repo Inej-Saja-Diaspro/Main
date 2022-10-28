@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://user-images.githubusercontent.com/114262373/198164726-f88eb98c-c54d-4efa-a75c-d080c950c447.png");
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headers {
+    background-color: rgba(255,255,255,0.5);
+}
