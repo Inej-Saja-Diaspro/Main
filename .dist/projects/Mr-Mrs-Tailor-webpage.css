@@ -7,3 +7,15 @@ body {
 .headers {
     background-color: rgba(255,255,255,0.5);
 }
+
+#Regist_item {
+    background-color: rgba(165, 114, 248, 0.637);
+}
+
+.test {
+    background-color: rgba(165, 114, 248, 0.637);
+    font-style: italic;
+}
+
+
+/*fix this shit*/
