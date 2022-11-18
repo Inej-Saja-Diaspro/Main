@@ -6,15 +6,17 @@ body {
 
 .headers {
     background-color: rgba(255,255,255,0.5);
+    text-shadow: black, 2cm;
 }
 
 #Regist_item {
-    background-color: rgba(165, 114, 248, 0.637);
+    background-color: rgba(255, 255, 255, 0.650);
 }
 
 .test {
-    background-color: rgba(165, 114, 248, 0.637);
-    font-style: italic;
+    background-color: rgba(255, 255, 255, 0.650);
+    text-shadow: black, 2cm;
+    
 }
 
 
