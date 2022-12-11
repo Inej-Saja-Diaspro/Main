@@ -3,11 +3,11 @@ $(document).ready(function(){
 });
 
 $("#btn_main").click(function(){
-    window.location.replace(".dist\projects\Mr-Mrs-Tailor-webpage.html");
+    window.location.replace("Mr-Mrs-Tailor-webpage.html");
 })
 
 $("#btn_regis").click(function(){
-    window.location.replace(".dist\projects\Mr-Mrs-Tailor-register.html");
+    window.location.replace("Mr-Mrs-Tailor-register.html");
 })
 
 //placeholder until I fix this//
