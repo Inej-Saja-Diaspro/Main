@@ -1,8 +1,8 @@
 #video {
-    background-color: blue; align-items: center; position: relative;
+    background-color: blue; align-items: center; position: static; padding: 2%;
 }
 
 #title {
-    font-family: fantasy; background-color: aqua; background-position: center;
-    text-align: center;
+    font-family: fantasy; background-color: aqua; background-position: center; background-clip: padding-box;
+    text-align: center; padding: 2%; text-decoration: darkviolet;
 }
