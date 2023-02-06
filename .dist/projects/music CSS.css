@@ -11,3 +11,7 @@ div.scrollmenu {
     overflow: auto;
     white-space: nowrap;
   }
+
+  div.scrollmenu iframe {
+    display: inline-block;
+  }
