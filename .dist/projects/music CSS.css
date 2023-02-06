@@ -6,3 +6,8 @@
     font-family: fantasy; background-color: aqua; background-position: center; background-clip: padding-box;
     text-align: center; padding: 2%; text-decoration: darkviolet;
 }
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+  }
