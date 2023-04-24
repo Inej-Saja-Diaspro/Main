@@ -5,9 +5,9 @@ namespace CodeSample{
             int A;
             int B;
             int C;
-            int A = 100;
-            int B = 50;
-            int C = -5;
+            A = 100;
+            B = 50;
+            C = -5;
             int D = B;
             double E = 40.5;
             char F = 'a';

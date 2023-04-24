@@ -1,0 +1,15 @@
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Users\Diaspro\Desktop\GH\Main\MyProject\obj\Debug\net7.0\ref\MyProject.dll
