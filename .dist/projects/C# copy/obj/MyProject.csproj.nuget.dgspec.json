@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Diaspro\\Desktop\\GH\\Main\\.dist\\projects\\C# copy\\MyProject.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Diaspro\\Desktop\\GH\\Main\\.dist\\projects\\C# copy\\MyProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Diaspro\\Desktop\\GH\\Main\\.dist\\projects\\C# copy\\MyProject.csproj",
+        "projectName": "MyProject",
+        "projectPath": "c:\\Users\\Diaspro\\Desktop\\GH\\Main\\.dist\\projects\\C# copy\\MyProject.csproj",
+        "packagesPath": "C:\\Users\\Malena\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Diaspro\\Desktop\\GH\\Main\\.dist\\projects\\C# copy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

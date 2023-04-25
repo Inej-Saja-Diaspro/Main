@@ -1,0 +1,30 @@
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\bin\Debug\net7.0\MyProject.exe
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\bin\Debug\net7.0\MyProject.deps.json
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\bin\Debug\net7.0\MyProject.runtimeconfig.json
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\bin\Debug\net7.0\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\bin\Debug\net7.0\MyProject.pdb
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\refint\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.pdb
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C#\obj\Debug\net7.0\ref\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\bin\Debug\net7.0\MyProject.exe
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\bin\Debug\net7.0\MyProject.deps.json
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\bin\Debug\net7.0\MyProject.runtimeconfig.json
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\bin\Debug\net7.0\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\bin\Debug\net7.0\MyProject.pdb
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\refint\MyProject.dll
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.pdb
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+c:\Users\Diaspro\Desktop\GH\Main\.dist\projects\C# copy\obj\Debug\net7.0\ref\MyProject.dll
